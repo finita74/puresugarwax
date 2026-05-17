@@ -15,7 +15,6 @@ export const LOCATION = {
 export const ALERTS = [
   "Only Accepting Appointments, No Walk-ins",
   "We do not offer Leg Sugaring at this time",
-  "  "
 ];
 
 export const SERVICES: ServiceItem[] = [
