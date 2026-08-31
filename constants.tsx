@@ -15,7 +15,7 @@ export const LOCATION = {
 export const ALERTS = [
   "Only Accepting Appointments, No Walk-ins",
   "We do not offer Leg Sugaring at this time",
-  "Shop will be closed from 9/18/26 to 10/5/26, 10/31/26-11/11/"];
+  "Shop will be closed from 9/18 to 10/5 , 10/31-11/11"];
 
 export const SERVICES: ServiceItem[] = [
   { name: "Brazilian", price: "$90", note: "(+$10 for extended bikini lines)" },
